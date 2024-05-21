@@ -17,7 +17,7 @@
     "@emotion/styled": "^11.11.5",
     "@mdx-js/react": "^3.0.1",
     "@mui/icons-material": "^5.15.14",
-    "@mui/material": "^5.15.14",
+    "@mui/material": "^6.0.0-alpha.7",
     "@mui/x-data-grid": "^7.1.0",
     "@sindresorhus/slugify": "^2.2.1",
     "code-bib": "github:bibudem/code-bib",
