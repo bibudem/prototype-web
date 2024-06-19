@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.6.0](https://github.com/bibudem/coquille-web/compare/v3.5.0...v3.6.0) (2024-06-19)
+
+
+### Features
+
+* Changement dans le readme.md de l'URL du site sur Netlify. ([9ed7981](https://github.com/bibudem/coquille-web/commit/9ed7981594a47d313338a42c49be4dfb9faefe35))
+
 ## [3.5.0](https://github.com/bibudem/coquille-web/compare/v3.4.0...v3.5.0) (2024-06-04)
 
 
